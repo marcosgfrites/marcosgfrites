@@ -1,4 +1,4 @@
-## Hola! Mi nombre es Marcos 👋
+## Hi! I'm Marcos 👋 🎼 👨‍💻 🇦🇷
 (Java Developer Trainee | Téc. Sup. en Análisis de Sistemas de Computación)
 
 ----
@@ -22,6 +22,11 @@
 <img src="https://img.icons8.com/color/60/000000/wordpress.png"/>
 <img src="https://img.icons8.com/color/60/000000/adobe-illustrator--v1.png"/>
 <img src="https://img.icons8.com/color/60/000000/adobe-photoshop.png"/>
+
+----
+
+### 🔭 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgfrites&theme=github_dark&icons=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 

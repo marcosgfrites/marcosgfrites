@@ -1,5 +1,5 @@
 ## Hi! I'm Marcos 👋 🎼 👨‍💻 🇦🇷
-(Java Developer Trainee | Téc. Sup. en Análisis de Sistemas de Computación)
+(Backend Developer | Téc. Sup. en Análisis de Sistemas de Computación)
 
 ----
 

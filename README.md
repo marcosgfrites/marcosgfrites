@@ -1,5 +1,5 @@
 ## Hi! I'm Marcos 👋 🎼 👨‍💻 🇦🇷
-(Backend Developer | Téc. Sup. en Análisis de Sistemas de Computación)
+(Backend Java-Kotlin Developer | Téc. Sup. en Análisis de Sistemas de Computación)
 
 ----
 

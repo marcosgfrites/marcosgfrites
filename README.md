@@ -15,6 +15,8 @@
 <img src="https://img.icons8.com/color/60/000000/css3.png"/>
 <img src="https://img.icons8.com/color/60/000000/spring-logo.png"/>
 <img src="https://img.icons8.com/color/60/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/color/60/000000/git.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/60/000000/visual-studio-2019.png"/>
 <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/60/000000/sublime-text.png"/>

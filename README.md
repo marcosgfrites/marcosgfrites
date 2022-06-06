@@ -1,5 +1,5 @@
 ## Hi! I'm Marcos 👋 🎼 👨‍💻 🇦🇷
-(Backend Java-Kotlin Developer | Téc. Sup. en Análisis de Sistemas de Computación)
+(Software Engineer: Backend Java/Kotlin/Go Developer | Téc. Sup. en Análisis de Sistemas de Computación)
 
 ----
 
@@ -9,6 +9,7 @@
 <img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C-Sharp"/>
 <img src="https://img.icons8.com/color/60/000000/sql.png" alt="SQL"/>
 <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/60/undefined/golang.png" alt="Go (Golang)"/>
 <img src="https://img.icons8.com/color/60/000000/kotlin.png" alt="Kotlin"/>
 <img src="https://img.icons8.com/color/60/000000/php.png" alt="Php"/>
 <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="Html5"/>

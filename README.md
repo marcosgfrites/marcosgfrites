@@ -1,31 +1,19 @@
 ## Hi! I'm Marcos 👋 🎼 👨‍💻 🇦🇷
-(Software Engineer: Backend Java/Kotlin/Go Developer | Téc. Sup. en Análisis de Sistemas de Computación)
+- Computer Systems Analyst (graduated in 2020).
+- Backend C#/Java/Kotlin/Go Developer since 2021 (sometimes Frontend Developer).
+- Data Science and Artificial Intelligence Student since 2024 to 2026.
 
 ----
 
 ### 🛠️ Languages & Tools
-![]() ![]()
-<img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
-<img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C-Sharp"/>
-<img src="https://img.icons8.com/color/60/000000/sql.png" alt="SQL"/>
-<img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/color/60/undefined/golang.png" alt="Go (Golang)"/>
-<img src="https://img.icons8.com/color/60/000000/kotlin.png" alt="Kotlin"/>
-<img src="https://img.icons8.com/color/60/000000/php.png" alt="Php"/>
-<img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="Html5"/>
-<img src="https://img.icons8.com/color/60/000000/css3.png" alt="Css3"/>
-<img src="https://img.icons8.com/color/60/000000/spring-logo.png" alt="Spring Boot"/>
-<img src="https://img.icons8.com/color/60/000000/intellij-idea.png" alt="IntelliJ Idea Community"/>
-<img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png" alt="BitBucket"/>
-<img src="https://img.icons8.com/color/60/000000/visual-studio-2019.png" alt="Visual Studio Community"/>
-<img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-<img src="https://img.icons8.com/color/60/000000/sublime-text.png" alt="Sublime Text"/>
-<img src="https://img.icons8.com/color/60/000000/mysql-logo.png" alt="MySQL Wrokbench"/>
-<img src="https://img.icons8.com/color/60/000000/microsoft-sql-server.png" alt="Microsoft SQL Server"/>
-<img src="https://img.icons8.com/color/60/000000/wordpress.png" alt="WordPress"/>
-<img src="https://img.icons8.com/color/60/000000/adobe-illustrator--v1.png" alt="Adobe Illustrator"/>
-<img src="https://img.icons8.com/color/60/000000/adobe-photoshop.png" alt="Adobe Photoshop"/>
+##### Backend:
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C-Sharp"/><img src="https://img.icons8.com/color/48/net-framework.png" alt=".NET"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/><img src="https://img.icons8.com/color/48/undefined/golang.png" alt="Go"/><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>    
+##### Database:
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL Wrokbench"/><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server"/><img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle PL/SQL"/>    
+##### Frontend:
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html5"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="Css3"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="Angular"/><img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/><img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>    
+##### Project Management & Others Tools:
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/><img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/><img src="https://img.icons8.com/color/48/jira.png" alt="Jira"/><img src="https://img.icons8.com/color/48/confluence--v2.png" alt="Confluence"/><img src="https://img.icons8.com/fluency/48/azure-1.png" alt="Azure DevOps"/><img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/><img src="https://img.icons8.com/color/48/kibana.png" alt="Kibana"/>    
 
 ----
 
